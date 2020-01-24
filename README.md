@@ -1,8 +1,11 @@
 # Wallpapers
 
-`- [Credits](#credits)` - [Mountains](#mountains)
-`- [Textures](#textures)` - [Dark](#dark)
-`- [Unsplash Collections](#unsplash-collections)
+- [Wallpapers](#wallpapers)
+  - [Credits](#credits)
+    - [Mountains](#mountains)
+    - [Textures](#textures)
+    - [Dark](#dark)
+  - [Unsplash Collections](#unsplash-collections)
 
 A repository holding several of my favorite wallpapers. Typicaly on fresh installs, these would be the images I would use as my desktop background.
 
