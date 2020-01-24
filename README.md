@@ -1,11 +1,38 @@
 # Wallpapers
 
+`- [Credits](#credits)` - [Mountains](#mountains)
+`- [Textures](#textures)` - [Dark](#dark)
+`- [Unsplash Collections](#unsplash-collections)
+
 A repository holding several of my favorite wallpapers. Typicaly on fresh installs, these would be the images I would use as my desktop background.
 
 The repository holds images by categories that I like to see on my desktop wallpaper.
 
 ```txt
-
+Wallpapers
+├── Dark
+│   ├── david-werbrouck-t20dIm29erM-unsplash.jpg
+│   ├── ewan-benoit-XJVFd00Wq6o-unsplash.jpg
+│   ├── joshua-ness-ITIgpGa2b-Q-unsplash.jpg
+│   ├── matt-artz-woy4Am6N72E-unsplash.jpg
+│   ├── osman-rana-RgJvJkyb8Hk-unsplash.jpg
+│   └── scott-rodgerson-kdovTeiIuL0-unsplash.jpg
+├── Mountains
+│   ├── ben-emrick-ZFB9S3LNcVg-unsplash.jpg
+│   ├── daniel-leone-g30P1zcOzXo-unsplash.jpg
+│   ├── jerry-zhang-Y8lCoTRgHPE-unsplash.jpg
+│   ├── jerry-zhang-hkhCV41gOpA-unsplash.jpg
+│   ├── kurt-cotoaga-cqbLg3lZEpk-unsplash.jpg
+│   ├── sven-scheuermeier-VNseEaTt9w4-unsplash.jpg
+│   └── vincent-romain-yCF6v9WVFcU-unsplash.jpg
+├── Textures
+│   ├── adam-przeniewski-SwBG6zKsXQI-unsplash.jpg
+│   ├── alex-jones-bBKVrH0vzB4-unsplash.jpg
+│   ├── bantersnaps-ZfK2x91gJOg-unsplash.jpg
+│   ├── pawel-czerwinski-qzaIDFtzcZ0-unsplash.jpg
+│   ├── samuel-scrimshaw-JXANugsHjCg-unsplash.jpg
+│   └── sebastien-bourguet-Yz8aWfAod_I-unsplash.jpg
+└── README.md
 ```
 
 ## Credits
@@ -94,7 +121,7 @@ Images are pulled from [Unsplash](unsplash.com), unless otherwise noted. Artists
 
 ![Photo by Joshua Ness on Unsplash](Dark/joshua-ness-ITIgpGa2b-Q-unsplash.jpg)
 
-### Unsplash Collections
+## Unsplash Collections
 
 Links to my currated collections:
 
